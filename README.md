@@ -8,4 +8,4 @@ https://roadmap.sh/projects/portfolio-website
 
 ## Live Website
 
-https://fadekocodeit.github.io/personal-portfolio/
+https://github.com/fadekocodeit/personal-portfolio
